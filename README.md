@@ -1,2 +1,2 @@
-# ds3000-fp-visualizations
+# Plotly Visualizations
 DS3000 Final Project - Data Visualizations
